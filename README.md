@@ -12,7 +12,5 @@ Welcome to My React Form Validation project! This application is designed to pro
 
 - **React Component:** Easily integrate the form validator into your React project with a dedicated component. The provided code is modular and can be adapted to different use cases.
 
-## Project Link
 
--** MY site is live at https://deepan-v.github.io/Form-Validation-using-React.js/
 
